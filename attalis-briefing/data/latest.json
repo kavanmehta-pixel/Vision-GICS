@@ -1,0 +1,55 @@
+{
+  "type": "Daily",
+  "period": "Sample Prior-Day Briefing",
+  "generatedAt": "24 May 2026 11:20pm AEST",
+  "marketSnapshot": {
+    "asx200": {"value":"8,214","change":"+0.6%","direction":"up"},
+    "sp500": {"value":"5,944","change":"+0.2%","direction":"up"},
+    "audusd": {"value":"0.6512","change":"-0.1%","direction":"down"},
+    "aus10y": {"value":"4.31%","change":"+3bps","direction":"up"},
+    "bitcoin": {"value":"108,400","change":"+1.8%","direction":"up"},
+    "ironOre": {"value":"US$103","change":"-0.9%","direction":"down"}
+  },
+  "leadStory": {
+    "headline": "Australian infrastructure funds re-enter competitive bidding for digital assets",
+    "brief": "Renewed pension and infra-fund appetite is driving competitive tension across towers, fibre and data-centre processes.",
+    "analysis": "Large superannuation-backed vehicles and global infrastructure managers are increasingly competing for stable long-duration digital infrastructure assets as private credit conditions improve. Market participants expect elevated valuations to persist through FY27.",
+    "source": "AFR / Reuters",
+    "dealValue": "$4.2b",
+    "attalisAngle": "Supports continued sponsor appetite for defensive infrastructure and recurring-revenue platforms across Australia.",
+    "priority": "high",
+    "url": "https://www.reuters.com/"
+  },
+  "sections": {
+    "deals": [
+      {
+        "headline": "Sponsor-backed healthcare platform explores secondary sale",
+        "brief": "Advisers are beginning early-stage outreach for a mid-market healthcare process.",
+        "analysis": "Strong recurring revenues and fragmented end-markets continue attracting PE interest despite elevated financing costs.",
+        "source": "Capital Brief",
+        "dealValue": "$650m",
+        "attalisAngle": "Healthcare roll-up appetite remains resilient in sponsor markets.",
+        "url": "https://www.capitalbrief.com/"
+      }
+    ],
+    "markets": [
+      {
+        "headline": "Banks rally as rate-cut expectations firm",
+        "brief": "Australian financials outperformed after softer inflation commentary.",
+        "analysis": "Lower expected funding pressure and improving housing activity supported major bank performance during the session.",
+        "source": "Bloomberg",
+        "url": "https://www.bloomberg.com/"
+      }
+    ],
+    "tech": [
+      {
+        "headline": "Enterprise AI spending remains concentrated in workflow automation",
+        "brief": "Corporate deployments are prioritising measurable productivity use-cases over experimental pilots.",
+        "analysis": "Software buyers continue favouring infrastructure and workflow integration layers rather than broad consumer-facing AI deployments.",
+        "source": "FT",
+        "url": "https://www.ft.com/"
+      }
+    ]
+  },
+  "weekAhead": []
+}
